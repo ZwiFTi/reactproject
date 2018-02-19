@@ -4,7 +4,6 @@
 
 * [Description](#description)
 * [Installation](#installation)
-* [How to play](#play)
 * [Contributing](#contributing)
 * [Known issues](#known)
 * [License](#known)
