@@ -16,8 +16,8 @@ Organize books the way you always wanted to!
 ## Installation
 
 ```
-git clone https://github.com/ZwiFTi/Project-4---arcade-game.git
-cd Project\ 4\ -\ arcade\ game/
+git clone https://github.com/ZwiFTi/reactproject.git
+cd reactproject
 npm install
 npm start
 ```
